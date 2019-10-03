@@ -12,7 +12,5 @@ int main()
 printf("%d * %d = %d\n",n,i,n*i);
 ++i;
     }
-
-     printf("This is a computer generated table and does not require any signature!\n");
        getch();
 }
